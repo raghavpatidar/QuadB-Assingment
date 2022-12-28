@@ -5,8 +5,9 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #485461;
-  background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+  background-color: #263159;
+  /* background-color: #485461;/ */
+  background-image: linear-gradient(315deg, #3e5f81 0%, #90a3b9 74%);
   font-family: "Source Sans Pro", sans-serif;
   background-attachment: fixed;
 }

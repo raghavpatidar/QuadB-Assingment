@@ -41,7 +41,7 @@ export default function BookingModal() {
   }, [show]);
   return (
     <div>
-      <Button onClick={handleOpen}>Open modal</Button>
+      <Button variant="contained" color="success" onClick={handleOpen}>Book Now</Button>
       <Modal
         open={open}
         onClose={handleClose}
